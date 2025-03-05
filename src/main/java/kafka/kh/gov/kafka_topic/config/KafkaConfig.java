@@ -1,7 +1,6 @@
 package kafka.kh.gov.kafka_topic.config;
 
 import java.util.Objects;
-
 import lombok.Getter;
 import lombok.ToString;
 
