@@ -11,7 +11,7 @@ import org.springframework.kafka.core.DefaultKafkaConsumerFactory;
 
 import java.util.HashMap;
 import java.util.Map;
-//import java.util.Properties;
+//import java.util.Properties; //sa
 
 @EnableKafka
 @Configuration
